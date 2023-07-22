@@ -25,6 +25,6 @@
 <img src="https://m-saleh96.github.io/portfolio-cv/assets/images/playgrounds.png" alt="m-saleh96" width="500px"/>
 <img src="https://m-saleh96.github.io/portfolio-cv/assets/images/bookstore.png" alt="m-saleh96" width="500px"/>
 <img src="https://m-saleh96.github.io/portfolio-cv/assets/images/e-commerce.png" alt="m-saleh96" width="500px"/>
-<a href="https://m-saleh96.github.io/noxe/home" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/nox.png" alt="m-saleh96" width="500px"/></a>
+<a href="https://m-saleh96.github.io/noxe" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/nox.png" alt="m-saleh96" width="500px"/></a>
 </p>
 
