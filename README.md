@@ -23,10 +23,10 @@
 <h3 align="center">My Top 5 Projects</h3>
 <p align="center">you can click on picture to see website</p>
 
-<p align="center">&nbsp;<a href="https://www.linkedin.com/feed/update/urn:li:activity:7075597266077593600/" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/cafeteria.png" alt="m-saleh96" width="500px"/></a>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7084530651726495744/" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/playgrounds.png" alt="m-saleh96" width="500px"/></a>
-<a href="https://www.linkedin.com/posts/mohamed-saleh-359167266_i-would-like-to-share-a-book-stores-project-activity-7071531553310261248-TUvB/?utm_source=share&utm_medium=member_desktop" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/bookstore.png" alt="m-saleh96" width="500px"/></a>
-<a href="https://m-saleh96.github.io/Angular-E-Commerce/" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/e-commerce.png" alt="m-saleh96" width="500px"/></a>
-<a href="https://m-saleh96.github.io/noxe" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/nox.png" alt="m-saleh96" width="500px"/></a>
+<p align="center">&nbsp;<a href="https://www.linkedin.com/feed/update/urn:li:activity:7075597266077593600/" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/cafeteria.png" alt="m-saleh96" width="400px"/></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7084530651726495744/" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/playgrounds.png" alt="m-saleh96" width="400px"/></a>
+<a href="https://www.linkedin.com/posts/mohamed-saleh-359167266_i-would-like-to-share-a-book-stores-project-activity-7071531553310261248-TUvB/?utm_source=share&utm_medium=member_desktop" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/bookstore.png" alt="m-saleh96" width="400px"/></a>
+<a href="https://m-saleh96.github.io/Angular-E-Commerce/" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/e-commerce.png" alt="m-saleh96" width="400px"/></a>
+<a href="https://m-saleh96.github.io/noxe" target="_blank"><img src="https://m-saleh96.github.io/portfolio-cv/assets/images/nox.png" alt="m-saleh96" width="400px"/></a>
 </p>
 
