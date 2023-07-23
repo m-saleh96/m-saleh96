@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-saleh96&label=Profile%20views&color=0e75b6&style=flat" alt="m-saleh96" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://m-saleh96.github.io/portfolio-cv/](https://m-saleh96.github.io/portfolio-cv/)
+- 👨‍💻 All of my projects are available at <a href="https://m-saleh96.github.io/portfolio-cv/" target="_blank">My Portfolio</a>
 
 - 💬 Ask me about **MEAN**
 
