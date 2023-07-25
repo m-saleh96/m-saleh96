@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://m-saleh96.github.io/portfolio-cv/" target="_blank">My Portfolio</a>
 
-- 💬 Ask me about **MEAN**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **MohamedSaleh18896@gmail.com**
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-saleh-359167266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-saleh-359167266" height="30" width="40" /></a>
 <a href="https://wa.me/201550191001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" alt="scyllies" height="30" width="40" /></a>
+<a href="https://t.me/+201550191001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="scyllies" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
